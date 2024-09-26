@@ -12,7 +12,7 @@ export class AppService {
   }
 
   getHi(): string {
-    return 'Hi World!!!!@@';
+    return 'Hi team';
   }
   getProjects(): any {
     // let myData = JSON.parse(fs.readFileSync('../data/Projects.json', 'utf-8'))
