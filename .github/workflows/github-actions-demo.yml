@@ -1,7 +1,5 @@
 name: ci
-on:
-  pull_request:
-    branches: ['*']
+on: [push]
 
 jobs:
   test:
