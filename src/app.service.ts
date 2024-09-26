@@ -16,6 +16,6 @@ export class AppService {
   }
   getProjects(): any {
     // let myData = JSON.parse(fs.readFileSync('../data/Projects.json', 'utf-8'))
-    return MOCKED_RESPONSE1;
+    return MOCKED_RESPONSE;
   }
 }
