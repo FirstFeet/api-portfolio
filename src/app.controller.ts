@@ -13,4 +13,9 @@ export class AppController {
   getHi(): string {
     return this.appService.getHi();
   }
+  @Get('/project-data')
+  getProjectData(): string {
+    return this.appService.getProjects();
+  }
+
 }
