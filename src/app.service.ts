@@ -1,6 +1,7 @@
 import { Injectable } from '@nestjs/common';
 // import fs from 'fs';
-import * as MOCKED_RESPONSE from '../data/Projects.json';
+import * as MOCKED_RESPONSE_PROJECTS from '../data/Projects.json';
+import * as MOCKED_RESPONSE_TECH_SKILLS from '../data/Projects.json';
 
 @Injectable()
 export class AppService {
@@ -15,7 +16,10 @@ export class AppService {
     return 'Hi team';
   }
   getProjects(): any {
-    // let myData = JSON.parse(fs.readFileSync('../data/Projects.json', 'utf-8'))
-    return MOCKED_RESPONSE;
+    return MOCKED_RESPONSE_PROJECTS;
+  }
+  getTechSkills(): any {
+
+    return MOCKED_RESPONSE_TECH_SKILLS;
   }
 }

@@ -1,0 +1,12 @@
+ [
+    {"icon": "work-experience","title":"Work Experience","description":"15+ years total, 6+ years of lead"},
+    {"icon": "front-end","title":"Front-End","description":"React, Next Js 14, TailWind"},
+    {"icon": "back-end","title":"Back-End","description":">Nest Js, ExpressJS, REST"},
+    {"icon": "database","title":"DataBase","description":"MySql, Postgres, Mongo DB"},
+    {"icon": "workflow","title":"Work-Flow","description":"Agile methodology, Devops"},
+    {"icon": "cloud-technologies","title":"Cloud Technologies","description":"AWS, Google Cloud services"},
+    {"icon": "cicd","title":"CI/CD","description":"Git Actions, Jenkins"},
+    {"icon": "container","title":"Container","description":"Docker, ECS, Docker Swawn"},
+    {"icon": "tools","title":"Code Editors","description":"Visual Studio Code"},
+    {"icon": "vcs","title":"VCS","description":"Jira, Confluence, Github, BitBucket"}
+  ]
