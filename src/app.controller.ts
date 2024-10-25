@@ -17,5 +17,9 @@ export class AppController {
   getProjectData(): string {
     return this.appService.getProjects();
   }
+  @Get('/tech-skills-data')
+  getTechSkillsData(): string {
+    return this.appService.getProjects();
+  }
 
 }
