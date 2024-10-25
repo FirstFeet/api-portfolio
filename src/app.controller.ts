@@ -15,11 +15,11 @@ export class AppController {
   }
   @Get('/project-data')
   getProjectData(): string {
-    return this.appService.getProjects();
+    return this.appService.getProjects()["default"];
   }
   @Get('/tech-skills-data')
   getTechSkillsData(): string {
-    return this.appService.getTechSkills();
+    return this.appService.getTechSkills()["default"];
   }
 
 }

@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 // import fs from 'fs';
 import * as MOCKED_RESPONSE_PROJECTS from '../data/Projects.json';
-import * as MOCKED_RESPONSE_TECH_SKILLS from '../data/Projects.json';
+import * as MOCKED_RESPONSE_TECH_SKILLS from '../data/TechSkills.json';
 
 @Injectable()
 export class AppService {
