@@ -7,6 +7,6 @@
     {"icon": "cloud-technologies","title":"Cloud Technologies","description":"AWS, Google Cloud services"},
     {"icon": "cicd","title":"CI/CD","description":"Git Actions, Jenkins"},
     {"icon": "container","title":"Container","description":"Docker, ECS, Docker Swawn"},
-    {"icon": "tools","title":"Code Editors","description":"Visual Studio Code"},
+    {"icon": "tools","title":"Code Editors","description":"Visual Studio Code, Git Co-Pilot"},
     {"icon": "vcs","title":"VCS","description":"Jira, Confluence, Github, BitBucket"}
   ]
