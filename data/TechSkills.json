@@ -1,5 +1,5 @@
- [
-    {"icon": "work-experience","title":"Work Experience","description":"15+ years total, 6+ years of lead"},
+[
+    {"icon": "work-experience","title":"Work Experience","description":"14+ years total, 6+ years of lead"},
     {"icon": "front-end","title":"Front-End","description":"React, Next Js 14, TailWind"},
     {"icon": "back-end","title":"Back-End","description":"Nest Js, ExpressJS, REST"},
     {"icon": "database","title":"DataBase","description":"MySql, Postgres, Mongo DB"},
@@ -9,4 +9,4 @@
     {"icon": "container","title":"Container","description":"Docker, ECS, Docker Swawn"},
     {"icon": "tools","title":"Code Editors","description":"Visual Studio Code, Git Co-Pilot"},
     {"icon": "vcs","title":"VCS","description":"Jira, Confluence, Github, BitBucket"}
-  ]
+]
